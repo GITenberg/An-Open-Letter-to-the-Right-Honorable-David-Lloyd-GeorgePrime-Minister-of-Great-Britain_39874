@@ -1,0 +1,33 @@
+_repo: An-Open-Letter-to-the-Right-Honorable-David-Lloyd-GeorgePrime-Minister-of-Great-Britain_39874
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39874-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Lajpat Rai, Lala
+    aliases:
+    - Lala Lajpat Rai
+    - Rai, Lajpat
+    - Rai, Lala Lajpat
+    birthdate: 1865
+    deathdate: 1928
+    gutenberg_agent_id: '40277'
+    url: http://www.gutenberg.org/2009/agents/40277
+    wikipedia: https://en.wikipedia.org/wiki/Lala_Lajpat_Rai
+description: ''
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcc 'DS'
+title: 'An Open Letter to the Right Honorable David Lloyd George
+
+  Prime Minister of Great Britain'
+url: http://www.gutenberg.org/ebooks/39874
